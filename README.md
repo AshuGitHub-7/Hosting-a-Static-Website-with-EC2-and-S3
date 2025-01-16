@@ -2,7 +2,7 @@
 
 # Clone Repo
 ```
-git clone https://github.com/atulkamble/aws-ec2-s3-static-website.git
+git clone https://github.com/AshuGitHub-7/aws-ec2-s3-static-website.git
 cd aws-ec2-s3-static-website
 ```
 
